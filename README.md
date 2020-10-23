@@ -1,3 +1,3 @@
 # Gitdemo
 proyecto
-nombre:Andres Arnulfo
+nombre Andres Arnulfo

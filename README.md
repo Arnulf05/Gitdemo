@@ -1,4 +1,4 @@
 # Gitdemo
 proyecto
-nombre Andres Arnulfo
+Realizado por Andres Arnulfo
 hola
